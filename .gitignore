@@ -1,0 +1,16 @@
+
+*.obj
+*.exe
+*.ilk
+*.pdb
+*.idb
+AutoClicker/x64/Debug/AutoClicker.tlog/unsuccessfulbuild
+*.tlog
+*.log
+*.recipe
+*.opendb
+*.ipch
+.vs/AutoClicker/v16/.suo
+*.db-shm
+*.db-wal
+*.db
